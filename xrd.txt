@@ -1,0 +1,2 @@
+# paste the xrd data
+# 2 theta   Intensity
