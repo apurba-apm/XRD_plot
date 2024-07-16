@@ -3,3 +3,4 @@ pymatgen==2024.4.13
 mp-api==0.41.2
 matplotlib==3.9.1
 matplotlib-inline==0.1.7
+bokeh==0.12.6
